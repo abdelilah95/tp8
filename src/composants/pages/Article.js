@@ -12,7 +12,7 @@ state={
     articleId:this.props.articleId,
     loading:true,
     loadingCon:true,
-    article:null,
+    article:1,
     commentaires:[]
 }
 
